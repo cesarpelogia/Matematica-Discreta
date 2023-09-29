@@ -1,1 +1,2 @@
-# Matematica-Discreta
+# matematicadiscreta
+Exercícios Teoria dos Conjuntos
